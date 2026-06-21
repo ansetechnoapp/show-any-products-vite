@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# show-any-products-vite
 
 - 📖 [Remix docs](https://remix.run/docs)
 
